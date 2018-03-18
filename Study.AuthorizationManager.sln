@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.RoleProvider", "Study.RoleProvider\Study.RoleProvider.csproj", "{565B1319-E4AA-4407-BCD4-55D480C096DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.AuthorizationManager", "Study.AuthorizationManager\Study.AuthorizationManager.csproj", "{565B1319-E4AA-4407-BCD4-55D480C096DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
